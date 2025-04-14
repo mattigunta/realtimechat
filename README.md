@@ -25,43 +25,8 @@ Real Talk is a real-time chat application built using the MERN stack (MongoDB, E
 -The Real Talk chat app is deployed on Render. 
 **[Live Demo](https://realtalk-opov.onrender.com)**
 
-## Installation
 
-1. Clone the repository:
-
-   
-   https://github.com/SarangaSiriwardhana9/RealTalk-Real-Time-Chat-App.git
-
-2.Navigate to the client folder and install the dependencies:
-
-   ```bash
-    cd client
-    npm install
-  ```
-
-3.Navigate to the server folder and install the dependencies:
-
-  ```bash
-    cd ../server
-    npm install
-  ```
-
-#Usage
-
-1.Run the development server for the client:
-
-  ```bash
-   cd client
-   npm run dev
-  ```
-
-2.Run the development server for the server
-
-  ```bash
-   npm run dev
-  ```
-
-# Future Enhancements
+    
 
 - User profiles: Allow users to customize their profiles with avatars, status messages, etc.
 - Group chats: Implement the ability for users to create and participate in group chats.
